@@ -21,7 +21,7 @@ See the source page below:
 
 ## Live Demo
 
-[Live Demo Link](https://github.com/Igors78/Building-with-Backgrounds-and-Gradients.git)
+[Live Demo Link](https://igors78.github.io/Building-with-Backgrounds-and-Gradients/)
 
 ## Getting Started
 
